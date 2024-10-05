@@ -1,1 +1,1 @@
-Project
+This machine learning model predicts whether a specific hotel reservation will be canceled. It was trained to an accuracy of 84% and stored in a PICKL file for future usage. It is implemented using the Flask framework, HTML5, and CSS3.  
